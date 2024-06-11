@@ -1,5 +1,13 @@
+@import url(./estilo/header.css);
+
 :root{
-    --cor-de-fundo:#black
-    --cor-da-fonte:#white
-    --cor-dos-titulos:
+    --cor-de-fundo:#000000;
+    --cor-da-fonte:#ffffff;
+    --cor-dos-titulos:#055C03;
+    --cor-dos-titulos-2:#A72020;
+    --cor-dos-titulos-3:#0019FF;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
 }
