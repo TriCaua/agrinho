@@ -9,6 +9,7 @@
 .cabecalho--menu-hamburguer{
     height: 40px;
     width: 40px;
+    background-repeat: no-repeat;
     display: inline-block;
     background-position: center;
     background-image: url(../Vector.png);
