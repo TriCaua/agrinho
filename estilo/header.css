@@ -13,4 +13,26 @@
     display: inline-block;
     background-position: center;
     background-image: url(../Vector.png);
+    background-repeat: no-repeat;
+}
+
+.cabecalho--titulo{
+    font-family: "Lacquer", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.lista-menu{
+    display: none;
+}
+
+.container--botao:checked ~ .lista-menu{
+    display: block;
+}
+
 }
