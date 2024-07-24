@@ -5,6 +5,9 @@
     display: flex;
     justify-content: space-between;
 }
+.cabecalho-bope{
+    width: 40px;
+}
 
 .cabecalho--menu-hamburguer{
     height: 40px;
