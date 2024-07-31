@@ -33,6 +33,7 @@
 
 .lista-menu{
     display: none;
+    font-size:15px ;
 }
 
 .container--botao:checked ~ .lista-menu{
