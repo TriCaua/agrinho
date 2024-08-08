@@ -1,3 +1,4 @@
-.letreiro{
-    text-align: center;
+.cabecalho{
+    display: flex;
+    justify-content: center;
 }
