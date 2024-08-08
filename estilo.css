@@ -30,3 +30,8 @@ body{
     height: 44px;
     padding-top: 20px;
 }
+
+.btn{
+    color: #A72020;
+    font-size: 20px;
+}
