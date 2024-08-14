@@ -15,8 +15,7 @@
 }
 
 .veneno{
-    display: flex;
-    justify-content: right;
+    margin-left: 100%;
 }
 
 body{
