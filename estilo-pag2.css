@@ -15,7 +15,10 @@
 }
 
 .veneno{
-    margin-left: 100%;
+   position: absolute;
+   left: 380px;
+   top: 20px;
+   width: 30px;
 }
 
 body{
