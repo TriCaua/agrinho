@@ -1,3 +1,13 @@
+:root{
+    --cor-de-fundo:#000000;
+    --cor-da-fonte:#A72020;
+    --cor-dos-titulos:#055C03;
+    --cor-dos-titulos-2:#A72020;
+    --cor-dos-titulos-3:#0019FF;
+    --cor-de-fundo-cabecalho:#D9D9D9;
+}
+
+
 .cabecalho{
     display: flex;
     justify-content: center;
