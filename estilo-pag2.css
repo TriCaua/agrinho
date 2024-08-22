@@ -26,11 +26,7 @@ body{
 }
  .texto2{
     color: white;
- }
-
- .foto2{
     display: flex;
-    justify-content: right;
  }
 
 
