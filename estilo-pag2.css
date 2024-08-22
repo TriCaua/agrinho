@@ -26,6 +26,6 @@ body{
 }
  .texto2{
     color: white;
-    display: flex;
+    display: list-item;
     justify-content: right;
  }
