@@ -27,5 +27,5 @@ body{
  .texto2{
     color: white;
     display: list-item;
-    justify-content: right;
+    justify-content: left;
  }
