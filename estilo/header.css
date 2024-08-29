@@ -48,4 +48,8 @@ footer{
     .cabecalho--titulo{
     font-size: 70px;
     }
+
+    .cabecalho-bope{
+        width: 50px;
+    }
 }
